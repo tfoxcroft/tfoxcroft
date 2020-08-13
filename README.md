@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="tfoxcroft's Github Stats" src="https://github-readme-stats.tfoxcroft.vercel.app/api?username=tfoxcroft&show_icons=true&hide_border=true" />
+![tfoxcroft's github stats](https://github-readme-stats.vercel.app/api?username=tfoxcroft&show_icons=true)

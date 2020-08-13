@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 
 ---
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tfoxcroft)](https://github.com/tfoxcroft/github-readme-stats)
+
 ![tfoxcroft's github stats](https://github-readme-stats.vercel.app/api?username=tfoxcroft&show_icons=true)

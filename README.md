@@ -1,4 +1,6 @@
-### Hi there, I'm Terence
+#### Hi there, I'm Terence
+
+### I'm a software developer based in Cape Town, South Africa
 
 ---
 
